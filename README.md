@@ -1,5 +1,15 @@
 # 🎲 Betting Game Backend
 
+![Java](https://img.shields.io/badge/Java-11-blue.svg)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.x-brightgreen.svg)
+![Gradle](https://img.shields.io/badge/Build-Gradle-purple.svg)
+![WebSocket](https://img.shields.io/badge/WebSocket-%F0%9F%94%97-orange.svg)
+![Tests](https://img.shields.io/badge/Tests-JUnit%205-red.svg)
+![Luck](https://img.shields.io/badge/Luck-%F0%9F%8E%AF-lightblue.svg)
+![Risk vs Reward](https://img.shields.io/badge/Risk%20vs%20Reward-%F0%9F%92%B0-yellow.svg)
+
+
+
 A Spring Boot backend for a real-time betting game, where players submit a bet and a number (1–100) via WebSocket. The server generates a random number in response and calculates the win amount based on the player's chance of winning.
 
 > Originally built as a technical assignment.
